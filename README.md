@@ -1,1 +1,1 @@
-# Mathematic-Mechanics-
+# Mathematic-Mechanics
