@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1750676598.50414 "d:/GitHub/Mathematic-Mechanics-/Hello.tex" "Hello.pdf" "Hello" 1750676599.53824 0
+["pdflatex"] 1751272952.98092 "d:/GitHub/Mathematic-Mechanics-/Hello.tex" "Hello.pdf" "Hello" 1751272954.11688 0
   "C:/Users/nikbo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1750675413 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/nikbo/AppData/Local/MiKTeX/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1000.pk" 1734651108 22324 0bde5e01850734c589b4a25d0d4363cb ""
   "C:/Users/nikbo/AppData/Local/MiKTeX/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1200.pk" 1750671224 27028 61fc8737af9409368a8b11161a29eb2b ""
@@ -39,10 +39,10 @@
   "C:/Users/nikbo/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1704400941 30006 57b07afb710ee2f649c65cfbafda39c1 ""
   "C:/Users/nikbo/AppData/Local/Programs/MiKTeX/tex/latex/mathastext/mathastext.sty" 1730543791 125897 35307587b687043c4b6396655a8f6449 ""
   "C:/Users/nikbo/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "Hello.aux" 1750676599 132 c89ce2280ab791babe7d68932f1c9de6 "pdflatex"
-  "Hello.tex" 1750676597 352 cbc53b273a66ecde3b5a49fc0f746135 ""
-  "d:/GitHub/Mathematic-Mechanics-/Hello.tex" 1750676597 352 cbc53b273a66ecde3b5a49fc0f746135 ""
-  "preamble.tex" 1750675406 262 d2ac1583fe519d13c34ad4a39cf8c458 ""
+  "Hello.aux" 1751272953 132 c89ce2280ab791babe7d68932f1c9de6 "pdflatex"
+  "Hello.tex" 1751272950 364 25e7ab2921e7ff2838cb8fd46560429d ""
+  "d:/GitHub/Mathematic-Mechanics-/Hello.tex" 1751272950 364 25e7ab2921e7ff2838cb8fd46560429d ""
+  "preamble.tex" 1751272950 266 6942e0289a2c7babc72cd3aa2652c26e ""
   (generated)
   "Hello.aux"
   "Hello.log"
