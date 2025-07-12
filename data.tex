@@ -1,0 +1,44 @@
+\documentclass[12pt, a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T2A]{fontenc}
+\usepackage[english, russian]{babel}
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{mathtools}               
+\usepackage{bm}                    
+\usepackage{mathrsfs}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{array, booktabs}
+\usepackage{cmap} %улучшает копирование и поиск русского текста в PDF-документе;
+\usepackage[T2A]{fontenc} % используется для корректного отображения кириллицы;
+\usepackage[utf8]{inputenc} % определяет юникодовую кодировку документа с кодом;
+\usepackage[english,russian]{babel} % улучшает расстановку переносов и сокращений английских и русских слов;
+\usepackage{amsmath,amsfonts,amssymb,amsthm,mathtools} % набор пакетов для расширения функционала при работе с формулами;
+\usepackage[left=3cm,right=1cm,top=2cm,bottom=2cm]{geometry} % задаёт поля страницы (в данном случае слева — 3 см, справа — 1 см, сверху — 2 см, снизу — 2 см);
+\usepackage{graphicx} % расширяет функционал при работе с рисунками;
+\usepackage[colorlinks,linkcolor=blue]{hyperref} % цвет ссылок в тексте становится синим;
+\usepackage{physics} % повышает удобство записи физических формул благодаря кратким и понятным командам;
+\usepackage{esvect} % даёт возможность рисовать красивый значок вектора;
+\usepackage{icomma} % делает дополнительный пробел после запятой в математическом режиме в PDF-файле, если после неё есть пробел в файле с кодом;
+\usepackage{indentfirst} % делает красную строку в первом абзаце раздела;
+\usepackage[labelsep=period,justification=centering]{caption} % форматирует подписи к рисункам и таблицам, согласно ГОСТ.
+\usepackage{titlesec}
+
+\titleformat{\section}{\filcenter\normalfont\Large\bfseries}{\thesection.}{0.2em}{}
+\titleformat{\subsection}{\filcenter\normalfont\large\bfseries}{\thesubsection.}{1em}{}
+\titleformat{\subsubsection}{\filcenter\normalfont\normalsize\bfseries}{\thesubsubsection.}{1em}{}
+
+\theoremstyle{plain}
+\newtheorem{theorem}{Теорема}[section]
+\newtheorem{lemma}{Лемма}[section]
+\newtheorem{corollary}{Следствие}[section]
+
+\theoremstyle{definition}
+\newtheorem{definition}{Определение}[section]
+\newtheorem{example}{Пример}[section]
+
+\theoremstyle{remark}
+\newtheorem{remark}{Замечание}[section]
+
+\title{Математический Анализ}
+\author{Боргояков Николай Алексеевич}
