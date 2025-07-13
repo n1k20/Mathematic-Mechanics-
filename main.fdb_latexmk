@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1752397397.22756 "d:/GitHub/Mathematic-Mechanics-/main.tex" "main.pdf" "main" 1752397398.45951 0
+["pdflatex"] 1752404754.3438 "d:/GitHub/Mathematic-Mechanics-/main.tex" "main.pdf" "main" 1752404755.44732 0
   "C:/Users/nikbo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1752383911 81074 e9df683c7a67b773afe1722d345afa16 ""
   "C:/Users/nikbo/AppData/Local/MiKTeX/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1200.pk" 1752221428 29472 f4561dff99583d88ddd46d32ff5ffb9e ""
   "C:/Users/nikbo/AppData/Local/MiKTeX/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1440.pk" 1750671223 36852 e6cf1a8726028d180df5b869ca6a8e3c ""
@@ -143,11 +143,12 @@
   "C:/Users/nikbo/AppData/Local/Programs/MiKTeX/tex/latex/tools/indentfirst.sty" 1700599895 1618 c5f08dcf49a56107311a81073b35fa4e ""
   "C:/Users/nikbo/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/nikbo/AppData/Local/Programs/MiKTeX/tex/latex/was/icomma.sty" 1665850770 1018 df058db1896806f044e2233bb506d425 ""
-  "d:/GitHub/Mathematic-Mechanics-/main.tex" 1752397396 6905 38c2a8024f1c338e2a2cf8ea6a7dfbad ""
-  "data.tex" 1752286442 3154 617a7d953ea765a36d3458d30badb8a3 ""
-  "main.aux" 1752397398 853 19247ddd0128234604a5511f38959453 "pdflatex"
-  "main.out" 1752397398 876 7a644c35be4d20193a2916a90e758cb2 "pdflatex"
-  "main.tex" 1752397396 6905 38c2a8024f1c338e2a2cf8ea6a7dfbad ""
+  "C:/Users/nikbo/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
+  "d:/GitHub/Mathematic-Mechanics-/main.tex" 1752404753 7013 6083207e0e4f9e404bc8549889dca538 ""
+  "main.aux" 1752404755 845 f521ea9b9f3664018dbeffe1fa3cc8ac "pdflatex"
+  "main.out" 1752404755 834 3d08e604458b085da35ffc829d5789b8 "pdflatex"
+  "main.tex" 1752404753 7013 6083207e0e4f9e404bc8549889dca538 ""
+  "preamble.tex" 1752404608 1688 0f0101aa8148636efa5f3e7671b4d11e ""
   (generated)
   "main.aux"
   "main.log"

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.6.30)  13 JUL 2025 16:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.6.30)  13 JUL 2025 18:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -7,7 +7,7 @@ entering extended mode
 (d:/GitHub/Mathematic-Mechanics-/main.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
-(data.tex (C:\Users\nikbo\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+(C:\Users\nikbo\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
 (C:\Users\nikbo\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
 File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
@@ -23,7 +23,7 @@ File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
-) (C:\Users\nikbo\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+) (preamble.tex (C:\Users\nikbo\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
@@ -397,6 +397,17 @@ LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
 ) (C:\Users\nikbo\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\mathrsfs.sty
 Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
 \symrsfs=\mathgroup9
+) (C:\Users\nikbo\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box54
+\beforetitleunit=\skip60
+\aftertitleunit=\skip61
+\ttl@plus=\dimen161
+\ttl@minus=\dimen162
+\ttl@toksa=\toks31
+\titlewidth=\dimen163
+\titlewidthlast=\dimen164
+\titlewidthfirst=\dimen165
 ) (C:\Users\nikbo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
  (C:\Users\nikbo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
@@ -410,51 +421,49 @@ Package graphics Info: Driver file: pdftex.def on input line 107.
  (C:\Users\nikbo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen161
-\Gin@req@width=\dimen162
+\Gin@req@height=\dimen166
+\Gin@req@width=\dimen167
 ) (C:\Users\nikbo\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count279
-\float@exts=\toks31
-\float@box=\box54
-\@float@everytoks=\toks32
-\@floatcapt=\box55
+\float@exts=\toks32
+\float@box=\box55
+\@float@everytoks=\toks33
+\@floatcapt=\box56
 ) (C:\Users\nikbo\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
-\col@sep=\dimen163
-\ar@mcellbox=\box56
-\extrarowheight=\dimen164
-\NC@list=\toks33
-\extratabsurround=\skip60
-\backup@length=\skip61
-\ar@cellbox=\box57
+\col@sep=\dimen168
+\ar@mcellbox=\box57
+\extrarowheight=\dimen169
+\NC@list=\toks34
+\extratabsurround=\skip62
+\backup@length=\skip63
+\ar@cellbox=\box58
 ) (C:\Users\nikbo\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen165
-\lightrulewidth=\dimen166
-\cmidrulewidth=\dimen167
-\belowrulesep=\dimen168
-\belowbottomsep=\dimen169
-\aboverulesep=\dimen170
-\abovetopsep=\dimen171
-\cmidrulesep=\dimen172
-\cmidrulekern=\dimen173
-\defaultaddspace=\dimen174
+\heavyrulewidth=\dimen170
+\lightrulewidth=\dimen171
+\cmidrulewidth=\dimen172
+\belowrulesep=\dimen173
+\belowbottomsep=\dimen174
+\aboverulesep=\dimen175
+\abovetopsep=\dimen176
+\cmidrulesep=\dimen177
+\cmidrulekern=\dimen178
+\defaultaddspace=\dimen179
 \@cmidla=\count280
 \@cmidlb=\count281
-\@aboverulesep=\dimen175
-\@belowrulesep=\dimen176
+\@aboverulesep=\dimen180
+\@belowrulesep=\dimen181
 \@thisruleclass=\count282
 \@lastruleclass=\count283
-\@thisrulewidth=\dimen177
+\@thisrulewidth=\dimen182
 ) (C:\Users\nikbo\AppData\Local\Programs\MiKTeX\tex/latex/cmap\cmap.sty
 Package: cmap 2021/02/06 v1.0j CMap support: searchable PDF
 
 
 Package cmap Warning: fontenc already loaded - some fonts may be unprocessed.
 
-) (C:\Users\nikbo\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
-Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 ) (C:\Users\nikbo\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (C:\Users\nikbo\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
@@ -465,15 +474,15 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@cnth=\count284
 \Gm@cntv=\count285
 \c@Gm@tempcnt=\count286
-\Gm@bindingoffset=\dimen178
-\Gm@wd@mp=\dimen179
-\Gm@odd@mp=\dimen180
-\Gm@even@mp=\dimen181
-\Gm@layoutwidth=\dimen182
-\Gm@layoutheight=\dimen183
-\Gm@layouthoffset=\dimen184
-\Gm@layoutvoffset=\dimen185
-\Gm@dimlist=\toks34
+\Gm@bindingoffset=\dimen183
+\Gm@wd@mp=\dimen184
+\Gm@odd@mp=\dimen185
+\Gm@even@mp=\dimen186
+\Gm@layoutwidth=\dimen187
+\Gm@layoutheight=\dimen188
+\Gm@layouthoffset=\dimen189
+\Gm@layoutvoffset=\dimen190
+\Gm@dimlist=\toks35
  (C:\Users\nikbo\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\nikbo\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2023-11-26 v7.01g Hypertext links for LaTeX
  (C:\Users\nikbo\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
@@ -511,7 +520,7 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count288
 )
-\@linkdim=\dimen186
+\@linkdim=\dimen191
 \Hy@linkcounter=\count289
 \Hy@pagecounter=\count290
  (C:\Users\nikbo\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
@@ -542,15 +551,15 @@ Package hyperref Info: Bookmarks ON on input line 4448.
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4786.
-\XeTeXLinkMargin=\dimen187
+\XeTeXLinkMargin=\dimen192
  (C:\Users\nikbo\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
  (C:\Users\nikbo\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count293
-\Field@Width=\dimen188
-\Fld@charsize=\dimen189
+\Field@Width=\dimen193
+\Fld@charsize=\dimen194
 Package hyperref Info: Hyper figures OFF on input line 6065.
 Package hyperref Info: Link nesting OFF on input line 6070.
 Package hyperref Info: Hyper index ON on input line 6073.
@@ -582,7 +591,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
 )
-\Hy@SectionHShift=\skip62
+\Hy@SectionHShift=\skip64
 ) (C:\Users\nikbo\AppData\Local\Programs\MiKTeX\tex/latex/physics\physics.sty
 Package: physics 
  (C:\Users\nikbo\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty (C:\Users\nikbo\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
@@ -590,7 +599,7 @@ Package: expl3 2024-01-04 L3 programming layer (loader)
  (C:\Users\nikbo\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count299
-\l__pdf_internal_box=\box58
+\l__pdf_internal_box=\box59
 ))
 Package: xparse 2023-10-10 L3 Experimental document command parser
 )) (C:\Users\nikbo\AppData\Local\Programs\MiKTeX\tex/latex/esvect\esvect.sty
@@ -604,31 +613,36 @@ Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
  (C:\Users\nikbo\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
-\caption@tempdima=\dimen190
-\captionmargin=\dimen191
-\caption@leftmargin=\dimen192
-\caption@rightmargin=\dimen193
-\caption@width=\dimen194
-\caption@indent=\dimen195
-\caption@parindent=\dimen196
-\caption@hangindent=\dimen197
+\caption@tempdima=\dimen195
+\captionmargin=\dimen196
+\caption@leftmargin=\dimen197
+\caption@rightmargin=\dimen198
+\caption@width=\dimen199
+\caption@indent=\dimen256
+\caption@parindent=\dimen257
+\caption@hangindent=\dimen258
 Package caption Info: Standard document class detected.
 )
 \c@caption@flags=\count300
 \c@continuedfloat=\count301
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
-) (C:\Users\nikbo\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
-Package: titlesec 2025/01/04 v2.17 Sectioning titles
-\ttl@box=\box59
-\beforetitleunit=\skip63
-\aftertitleunit=\skip64
-\ttl@plus=\dimen198
-\ttl@minus=\dimen199
-\ttl@toksa=\toks35
-\titlewidth=\dimen256
-\titlewidthlast=\dimen257
-\titlewidthfirst=\dimen258
+) (C:\Users\nikbo\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+ (C:\Users\nikbo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (C:\Users\nikbo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
 )
 \c@theorem=\count302
 \c@lemma=\count303
@@ -639,27 +653,27 @@ Package: titlesec 2025/01/04 v2.17 Sectioning titles
 ) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Info: Redefining \th on input line 3.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Info: Redefining \th on input line 4.
  (C:\Users\nikbo\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count308
@@ -713,34 +727,27 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(C:\Users\nikbo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
-Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
- (C:\Users\nikbo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package color Info: Driver file: pdftex.def on input line 149.
- (C:\Users\nikbo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx))
-Package hyperref Info: Link coloring ON on input line 3.
- (main.out) (main.out)
+Package hyperref Info: Link coloring ON on input line 4.
+(main.out) (main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 <<t2a.cmap>><<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
-LaTeX Font Info:    Trying to load font information for U+msa on input line 16.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 21.
  (C:\Users\nikbo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 16.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 21.
  (C:\Users\nikbo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 16.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 21.
  (C:\Users\nikbo\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-LaTeX Font Info:    Trying to load font information for U+esvect on input line 16.
+LaTeX Font Info:    Trying to load font information for U+esvect on input line 21.
  (C:\Users\nikbo\AppData\Local\Programs\MiKTeX\tex/latex/esvect\uesvect.fd
 File: uesvect.fd 
 ) [1
@@ -751,20 +758,20 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 7A644C35BE4D20193A2916A90E758CB2;876.
+(rerunfilecheck)             Checksum: 3D08E604458B085DA35FFC829D5789B8;834.
  ) 
 Here is how much of TeX's memory you used:
- 16007 strings out of 474486
- 253151 string characters out of 5743755
+ 16408 strings out of 474486
+ 258469 string characters out of 5743755
  1943542 words of memory out of 5000000
- 37982 multiletter control sequences out of 15000+600000
+ 38383 multiletter control sequences out of 15000+600000
  572708 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,8n,96p,573b,455s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,8n,96p,573b,547s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\nikbo\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\nikbo\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\nikbo\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\nikbo\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk><C:/Users/nikbo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/nikbo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/nikbo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (2 pages, 94194 bytes).
+Output written on main.pdf (2 pages, 94788 bytes).
 PDF statistics:
- 219 PDF objects out of 1000 (max. 8388607)
+ 220 PDF objects out of 1000 (max. 8388607)
  20 named destinations out of 1000 (max. 500000)
  53 words of extra memory for PDF output out of 10000 (max. 10000000)
 
